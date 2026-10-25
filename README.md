@@ -4,6 +4,10 @@ A web app that estimates the chances of a child inheriting genetic traits and co
 
 > **Educational use only.** This is not medical advice or a diagnostic tool. Real inheritance is more complex than these models. For genetic counselling, talk to a clinical geneticist.
 
+It is hosted on render and can be deployed wherever 
+link - https://inheritance-odds-fjvt.onrender.com
+
+
 ## Features
 
 - 18 traits: cystic fibrosis, sickle cell disease, Huntington's disease, thalassaemia, PKU, Tay-Sachs, SMA, Wilson disease, albinism, ABO and Rh blood groups, and more
